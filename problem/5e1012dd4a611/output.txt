@@ -1,0 +1,7 @@
+5th fibonacci: 5
+6th fibonacci: 8
+7th fibonacci: 13
+8th fibonacci: 21
+9th fibonacci: 34
+12th fibonacci: 144
+18th fibonacci: 2584
